@@ -1,0 +1,12 @@
+variation,total_images,correct_predictions,accuracy
+centerlight,10.0,10.0,1.0
+glasses,10.0,10.0,1.0
+happy,10.0,10.0,1.0
+leftlight,10.0,10.0,1.0
+noglasses,10.0,9.0,0.9
+normal,10.0,10.0,1.0
+rightlight,10.0,10.0,1.0
+sad,10.0,10.0,1.0
+sleepy,10.0,10.0,1.0
+surprised,10.0,10.0,1.0
+wink,10.0,10.0,1.0
